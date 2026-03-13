@@ -15,8 +15,8 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 4      | Vector space semantics | <a href='slides/AUC_4_vectorSpaceSemantics_2026.pdf'>slides</a> + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
 | 5      | Word embeddings | <a href='AUC_5_Word_Embeddings_2026.pdf'>slides</a> + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
 | 6      | Machine learning fundamentals  | slides + <a href='notebooks/6_1_LinearModels.ipynb'>notebook</a> |
-| 7      | RNNs, LSTMs and Transformers | slides + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
-| 8      | Recommender systems and NER  | slides + notebooks <a href='notebooks/9_Recommender_Systems.ipynb'>Recommender</a>, <a href='notebooks/8_2_NER_Transformers.ipynb'>NER (Transformers)</a>, <a href='notebooks/8_1_NER_PyTorch.ipynb'>NER (PyTorch)</a> |
+| 7      | RNNs to Transformers, NER | slides + <a href='notebooks/8_2_NER_Transformers.ipynb'>NER (Transformers)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>PyTorch basics</a>, <a href='notebooks/8_1_NER_PyTorch.ipynb'>NER (PyTorch)</a> |
+| 8      | Recommender systems | slides + <a href='notebooks/9_Recommender_Systems.ipynb'>notebook</a> |
 | 9      | Creating annotated corpora, Web scraping and APIs  | slides, <a href='notebooks/10_WebScraping_APIs.ipynb'>notebook</a> |
 | 10      | Sentiment analysis  | slides + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
 | 11      | Clustering and topic modelling  | slides + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
